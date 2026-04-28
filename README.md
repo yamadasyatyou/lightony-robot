@@ -12,7 +12,6 @@ LIGHTONY is an interactive lamp robot powered by the Sony Spresense platform. It
 
 🎥 **Watch the demo video:** [Click here to watch on YouTube](https://youtube.com/shorts/HmzlsDdo05Y?si=zyfIlw46z9iSeXyk)
 
-
 ## Features
 * **Voice Recognition:** Understands and reacts to specific voice commands.
 * **Interactive Lighting:** Expresses different states and emotions using LEDs.
@@ -25,3 +24,9 @@ lightony-robot/
  ├── software/      # Source code for Sony Spresense
  ├── docs/          # Additional documentation and images
  └── README.md
+```
+## Acknowledgments
+The edge AI implementation and Spresense control in this project were greatly inspired by and developed with reference to the following book and its accompanying repository:
+
+* **Book:** *[SPRESENSEではじめるローパワーエッジAI](https://www.oreilly.co.jp/books/9784873119670/)* (Low-Power Edge AI with SPRESENSE) by Yoshinori Oota
+* **Repository:** [TE-YoshinoriOota/Spresense-LowPower-EdgeAI](https://github.com/TE-YoshinoriOota/Spresense-LowPower-EdgeAI)
