@@ -3,7 +3,9 @@
 
 A Spresense-based lamp robot with voice recognition.
 
-🏆 **Winner of the Grand Prize (Entertainment Category) at the SPRESENSE Application Contest 2025**
+🏆 **Winner of the Grand Prize (Entertainment Category) at [the SPRESENSE Application Contest 2025](https://elchika.com/promotion/spresense2025/winner/#nav)**
+
+🎥 **Watch the demo video:** [Click here to watch on YouTube]((https://youtube.com/shorts/HmzlsDdo05Y?si=zyfIlw46z9iSeXyk)
 
 ---
 
