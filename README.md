@@ -36,4 +36,4 @@ This project is dual-licensed to protect both the software and the hardware desi
 
 * **Software (Source Code):** Licensed under the [GNU Lesser General Public License v2.1 (LGPL-2.1)](LICENSE).
 * **Hardware & 3D Models:** Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). 
-  *(You are free to use, modify, and share the hardware designs for non-commercial purposes. Commercial use or selling of the physical robot based on these designs is strictly prohibited without explicit permission.)*
+  *(Non-commercial use only. Selling the physical robot or parts is strictly prohibited.)*
