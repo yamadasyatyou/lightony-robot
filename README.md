@@ -30,3 +30,10 @@ The edge AI implementation and Spresense control in this project were greatly in
 
 * **Book:** *[SPRESENSEではじめるローパワーエッジAI](https://www.oreilly.co.jp/books/9784873119670/)* (Low-Power Edge AI with SPRESENSE) by Yoshinori Oota
 * **Repository:** [TE-YoshinoriOota/Spresense-LowPower-EdgeAI](https://github.com/TE-YoshinoriOota/Spresense-LowPower-EdgeAI)
+
+## License
+This project is dual-licensed to protect both the software and the hardware designs:
+
+* **Software (Source Code):** Licensed under the [GNU Lesser General Public License v2.1 (LGPL-2.1)](LICENSE).
+* **Hardware & 3D Models:** Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). 
+  *(You are free to use, modify, and share the hardware designs for non-commercial purposes. Commercial use or selling of the physical robot based on these designs is strictly prohibited without explicit permission.)*
