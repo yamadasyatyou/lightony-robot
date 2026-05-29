@@ -22,7 +22,6 @@ LIGHTONY is an interactive lamp robot powered by the Sony Spresense platform. It
 lightony-robot/
  ├── hardware/      # Mechanical and PCB design files (with schematics)
  ├── software/      # Source code for Sony Spresense
- ├── docs/          # Additional documentation and images
  └── README.md
 ```
 ## Acknowledgments
